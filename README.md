@@ -14,7 +14,7 @@ College Fest Mangement - Should have multiple pages and should display the image
 According to the problem statement,
 I, Guru Renuka(gururenuka3@gmail.com), front-end developer and
 Adweeteya Dwivedi(adweteeya1999@gmail.com), back-end developer have worked together to code and design the project.
-(There's support initially from Shubhadeep Maity, Krupa Mehta and Roopa Jhade)
+There's support from Shubhadeep Maity, Krupa Mehta and Roopa Jhade, the members of our team.
 
 Project: College Fest Management
 Fest: FREON 2021 (imaginary name)
